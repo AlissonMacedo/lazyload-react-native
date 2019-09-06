@@ -20,6 +20,21 @@ export default class App extends Component {
         url: 'https://images.unsplash.com/photo-1494522358652-f30e61a60313',
         loaded: false,
       },
+      {
+        id: 3,
+        url: 'https://images.unsplash.com/photo-1467703834117-04386e3dadd8',
+        loaded: false,
+      },
+      {
+        id: 4,
+        url: 'https://images.unsplash.com/photo-1511971523672-53e6411f62b9',
+        loaded: false,
+      },
+      {
+        id: 5,
+        url: 'https://images.unsplash.com/photo-1494522358652-f30e61a60313',
+        loaded: false,
+      },
     ],
   };
 
